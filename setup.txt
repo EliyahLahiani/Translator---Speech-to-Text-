@@ -1,1 +1,2 @@
 pip install git+https://github.com/EliyahLahiani/TranslatorUsingAI.git
+pip install -r requirments.txt
