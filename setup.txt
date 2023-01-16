@@ -1,2 +1,4 @@
+#copy repo
 pip install git+https://github.com/EliyahLahiani/TranslatorUsingAI.git
+#installs app dep [lib/packages] 
 pip install -r requirments.txt
